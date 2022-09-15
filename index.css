@@ -1,0 +1,18 @@
+body {
+    padding: 10px;
+}
+
+.glyphicon-heart {
+    padding: 5px;
+    font-size: 20px;
+
+}
+
+.glyphicon-heart:active {
+    font-size: large;
+}
+
+.badge {
+    background-color: transparent;
+    position: fixed;
+}
